@@ -1,5 +1,9 @@
-<div style="border: 1px solid #7c7c7cad; border-radius: 25px; padding: 10px;">
+<table>
+  <tr>
+    <td style="border: 2px solid #00FFC6; border-radius: 10px; padding: 20px;" align="center"><
 
-<h1 align="center">Hello! I’m Gabriel - Web Developer Full-Stack From Brazil 🇧🇷</h1>
+      <h1>Hello! I’m Gabriel - Web Developer Full-Stack From Brazil 🇧🇷</h1>
 
-</div>
+    </td>
+  </tr>
+</table>
