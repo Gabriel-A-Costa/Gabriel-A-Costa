@@ -34,8 +34,6 @@ I’m a full-stack web developer who brings ideas to life, step by step, in the 
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" 
   alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
   </a>
-  <!-- <a href="LINK AQUI" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/></a> 
-  <a href="LINK AQUI" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a> -->
 </p>
 
 
